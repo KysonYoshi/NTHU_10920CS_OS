@@ -1,4 +1,4 @@
-# NTHU 10920CS 342300 作業系統Operating Systems
+# NTHU 10920CS 342300 Operating Systems
 
 Implement NachOS functions
 
